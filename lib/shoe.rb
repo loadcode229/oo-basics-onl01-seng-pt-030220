@@ -8,10 +8,6 @@ class Shoe
   end
   
   def cobble
-    if cobble
-      puts "new"
-    else
     puts "Your shoe is as good as new!"
-  end
   end 
 end
